@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Wobotform-React/static/css/main.09dc57b8.css",
+    "main.js": "/Wobotform-React/static/js/main.ff946ab0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Wobotform-React/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background.png": "/Wobotform-React/static/media/background.a25de8d4577966d46def.png",
+    "index.html": "/Wobotform-React/index.html",
+    "main.09dc57b8.css.map": "/Wobotform-React/static/css/main.09dc57b8.css.map",
+    "main.ff946ab0.js.map": "/Wobotform-React/static/js/main.ff946ab0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Wobotform-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09dc57b8.css",
+    "static/js/main.ff946ab0.js"
+  ]
+}
